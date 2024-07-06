@@ -1076,9 +1076,7 @@ textarea.form-input {
   resize: vertical;
   margin-bottom: 25px;
 }
-#file-input{
-  margin-bottom: 25px;
-}
+
 textarea.form-input::-webkit-resizer { display: none; }
 
 .form-input:focus:invalid { border-color: var(--bittersweet-shimmer); }
